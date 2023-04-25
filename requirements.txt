@@ -6,3 +6,5 @@ django-admin-material-dashboard==1.0.10
 
 # psycopg2-binary
 # mysqlclient
+
+plotly==5.8.0
